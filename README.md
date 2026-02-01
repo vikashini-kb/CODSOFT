@@ -20,5 +20,13 @@ This repository contains tasks completed as part of the CodSoft Python Programmi
 - Includes password strength evaluation
 - Concepts used: Functions, random and string modules, exception handling
 
+## Task 3: Rock Paper Scissors Game
+- Developed using Python
+- Interactive command-line game
+- User vs computer gameplay
+- Score tracking for multiple rounds
+- Concepts used: Loops, conditionals, functions, random module
+
+
 
 
